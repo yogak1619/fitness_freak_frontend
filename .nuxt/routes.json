@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "blog-blog-detail",
+    "path": "/blog/blog-detail",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/blog/blog-detail.vue",
+    "chunkName": "pages/blog/blog-detail",
+    "_name": "_aea20c60"
+  },
+  {
+    "name": "blog-blog-leftsidebar",
+    "path": "/blog/blog-leftsidebar",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/blog/blog-leftsidebar.vue",
+    "chunkName": "pages/blog/blog-leftsidebar",
+    "_name": "_cad342f4"
+  },
+  {
+    "name": "blog-blog-nosidebar",
+    "path": "/blog/blog-nosidebar",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/blog/blog-nosidebar.vue",
+    "chunkName": "pages/blog/blog-nosidebar",
+    "_name": "_6bc4e2cc"
+  },
+  {
+    "name": "blog-blog-rightsidebar",
+    "path": "/blog/blog-rightsidebar",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/blog/blog-rightsidebar.vue",
+    "chunkName": "pages/blog/blog-rightsidebar",
+    "_name": "_79b81a7f"
+  },
+  {
+    "name": "collection-full-width",
+    "path": "/collection/full-width",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/collection/full-width.vue",
+    "chunkName": "pages/collection/full-width",
+    "_name": "_0d7bb008"
+  },
+  {
+    "name": "collection-list-view",
+    "path": "/collection/list-view",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/collection/list-view.vue",
+    "chunkName": "pages/collection/list-view",
+    "_name": "_057dc5a4"
+  },
+  {
+    "name": "collection-metro",
+    "path": "/collection/metro",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/collection/metro.vue",
+    "chunkName": "pages/collection/metro",
+    "_name": "_b33f746e"
+  },
+  {
+    "name": "collection-no-sidebar",
+    "path": "/collection/no-sidebar",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/collection/no-sidebar.vue",
+    "chunkName": "pages/collection/no-sidebar",
+    "_name": "_6c5a0b60"
+  },
+  {
+    "name": "collection-right-sidebar",
+    "path": "/collection/right-sidebar",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/collection/right-sidebar.vue",
+    "chunkName": "pages/collection/right-sidebar",
+    "_name": "_c9b1874a"
+  },
+  {
+    "name": "collection-sidebar-popup",
+    "path": "/collection/sidebar-popup",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/collection/sidebar-popup.vue",
+    "chunkName": "pages/collection/sidebar-popup",
+    "_name": "_36065aab"
+  },
+  {
+    "name": "collection-six-grid",
+    "path": "/collection/six-grid",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/collection/six-grid.vue",
+    "chunkName": "pages/collection/six-grid",
+    "_name": "_70b20dd1"
+  },
+  {
+    "name": "collection-three-grid",
+    "path": "/collection/three-grid",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/collection/three-grid.vue",
+    "chunkName": "pages/collection/three-grid",
+    "_name": "_060382d6"
+  },
+  {
+    "name": "page-404",
+    "path": "/page/404",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/404.vue",
+    "chunkName": "pages/page/404",
+    "_name": "_3f676e19"
+  },
+  {
+    "name": "page-about",
+    "path": "/page/about",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/about.vue",
+    "chunkName": "pages/page/about",
+    "_name": "_074227ae"
+  },
+  {
+    "name": "page-collection",
+    "path": "/page/collection",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/collection.vue",
+    "chunkName": "pages/page/collection",
+    "_name": "_b89ac066"
+  },
+  {
+    "name": "page-coming-soon",
+    "path": "/page/coming-soon",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/coming-soon.vue",
+    "chunkName": "pages/page/coming-soon",
+    "_name": "_a7ab0db0"
+  },
+  {
+    "name": "page-faq",
+    "path": "/page/faq",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/faq.vue",
+    "chunkName": "pages/page/faq",
+    "_name": "_294fde12"
+  },
+  {
+    "name": "page-lookbook",
+    "path": "/page/lookbook",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/lookbook.vue",
+    "chunkName": "pages/page/lookbook",
+    "_name": "_4db78012"
+  },
+  {
+    "name": "page-order-success",
+    "path": "/page/order-success",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/order-success.vue",
+    "chunkName": "pages/page/order-success",
+    "_name": "_6a701425"
+  },
+  {
+    "name": "page-review",
+    "path": "/page/review",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/review.vue",
+    "chunkName": "pages/page/review",
+    "_name": "_1d595f07"
+  },
+  {
+    "name": "page-search",
+    "path": "/page/search",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/search.vue",
+    "chunkName": "pages/page/search",
+    "_name": "_64052557"
+  },
+  {
+    "name": "page-typography",
+    "path": "/page/typography",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/typography.vue",
+    "chunkName": "pages/page/typography",
+    "_name": "_1bd3b5de"
+  },
+  {
+    "name": "product-bundle-product",
+    "path": "/product/bundle-product",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/product/bundle-product.vue",
+    "chunkName": "pages/product/bundle-product",
+    "_name": "_423e2265"
+  },
+  {
+    "name": "product-four-image",
+    "path": "/product/four-image",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/product/four-image.vue",
+    "chunkName": "pages/product/four-image",
+    "_name": "_66ed8e35"
+  },
+  {
+    "name": "shop-bags",
+    "path": "/shop/bags",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/bags/index.vue",
+    "chunkName": "pages/shop/bags/index",
+    "_name": "_0bd5ed16"
+  },
+  {
+    "name": "shop-beauty",
+    "path": "/shop/beauty",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/beauty/index.vue",
+    "chunkName": "pages/shop/beauty/index",
+    "_name": "_7284c2e7"
+  },
+  {
+    "name": "shop-electronics-1",
+    "path": "/shop/electronics-1",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/electronics-1/index.vue",
+    "chunkName": "pages/shop/electronics-1/index",
+    "_name": "_a2917b34"
+  },
+  {
+    "name": "shop-fashion",
+    "path": "/shop/fashion",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion/index.vue",
+    "chunkName": "pages/shop/fashion/index",
+    "_name": "_0ac5d283"
+  },
+  {
+    "name": "shop-fashion-2",
+    "path": "/shop/fashion-2",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion-2/index.vue",
+    "chunkName": "pages/shop/fashion-2/index",
+    "_name": "_0e1d93e8"
+  },
+  {
+    "name": "shop-fashion-3",
+    "path": "/shop/fashion-3",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion-3/index.vue",
+    "chunkName": "pages/shop/fashion-3/index",
+    "_name": "_b9fb72ae"
+  },
+  {
+    "name": "shop-flower",
+    "path": "/shop/flower",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/flower/index.vue",
+    "chunkName": "pages/shop/flower/index",
+    "_name": "_1f49a206"
+  },
+  {
+    "name": "shop-furniture",
+    "path": "/shop/furniture",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/furniture/index.vue",
+    "chunkName": "pages/shop/furniture/index",
+    "_name": "_0d9fe03d"
+  },
+  {
+    "name": "shop-gym",
+    "path": "/shop/gym",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/gym/index.vue",
+    "chunkName": "pages/shop/gym/index",
+    "_name": "_49eab6c6"
+  },
+  {
+    "name": "shop-jewellery",
+    "path": "/shop/jewellery",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/jewellery/index.vue",
+    "chunkName": "pages/shop/jewellery/index",
+    "_name": "_58ad4f4e"
+  },
+  {
+    "name": "shop-kids",
+    "path": "/shop/kids",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/kids/index.vue",
+    "chunkName": "pages/shop/kids/index",
+    "_name": "_59a54798"
+  },
+  {
+    "name": "shop-pets",
+    "path": "/shop/pets",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/pets/index.vue",
+    "chunkName": "pages/shop/pets/index",
+    "_name": "_f7ef18c2"
+  },
+  {
+    "name": "shop-shoes",
+    "path": "/shop/shoes",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/shoes/index.vue",
+    "chunkName": "pages/shop/shoes/index",
+    "_name": "_afc6b09a"
+  },
+  {
+    "name": "shop-tools",
+    "path": "/shop/tools",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/tools/index.vue",
+    "chunkName": "pages/shop/tools/index",
+    "_name": "_64e41ae6"
+  },
+  {
+    "name": "shop-vegetables",
+    "path": "/shop/vegetables",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/vegetables/index.vue",
+    "chunkName": "pages/shop/vegetables/index",
+    "_name": "_958aa946"
+  },
+  {
+    "name": "shop-watch",
+    "path": "/shop/watch",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/watch/index.vue",
+    "chunkName": "pages/shop/watch/index",
+    "_name": "_15d1f4da"
+  },
+  {
+    "name": "blog-widgets-blog-list",
+    "path": "/blog/widgets/blog-list",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/blog/widgets/blog-list.vue",
+    "chunkName": "pages/blog/widgets/blog-list",
+    "_name": "_17956c06"
+  },
+  {
+    "name": "blog-widgets-blog-sidebar",
+    "path": "/blog/widgets/blog-sidebar",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/blog/widgets/blog-sidebar.vue",
+    "chunkName": "pages/blog/widgets/blog-sidebar",
+    "_name": "_a7f2be66"
+  },
+  {
+    "name": "page-account-cart",
+    "path": "/page/account/cart",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/account/cart.vue",
+    "chunkName": "pages/page/account/cart",
+    "_name": "_dc55699e"
+  },
+  {
+    "name": "page-account-checkout",
+    "path": "/page/account/checkout",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/account/checkout.vue",
+    "chunkName": "pages/page/account/checkout",
+    "_name": "_37a99452"
+  },
+  {
+    "name": "page-account-contact",
+    "path": "/page/account/contact",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/account/contact.vue",
+    "chunkName": "pages/page/account/contact",
+    "_name": "_3877fa9f"
+  },
+  {
+    "name": "page-account-dashboard",
+    "path": "/page/account/dashboard",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/account/dashboard.vue",
+    "chunkName": "pages/page/account/dashboard",
+    "_name": "_2a43ed5a"
+  },
+  {
+    "name": "page-account-forget-password",
+    "path": "/page/account/forget-password",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/account/forget-password.vue",
+    "chunkName": "pages/page/account/forget-password",
+    "_name": "_2e43907a"
+  },
+  {
+    "name": "page-account-login",
+    "path": "/page/account/login",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/account/login.vue",
+    "chunkName": "pages/page/account/login",
+    "_name": "_3847c728"
+  },
+  {
+    "name": "page-account-login-firebase",
+    "path": "/page/account/login-firebase",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/account/login-firebase.vue",
+    "chunkName": "pages/page/account/login-firebase",
+    "_name": "_f48d0988"
+  },
+  {
+    "name": "page-account-profile",
+    "path": "/page/account/profile",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/account/profile.vue",
+    "chunkName": "pages/page/account/profile",
+    "_name": "_409f73a8"
+  },
+  {
+    "name": "page-account-register",
+    "path": "/page/account/register",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/account/register.vue",
+    "chunkName": "pages/page/account/register",
+    "_name": "_273220b4"
+  },
+  {
+    "name": "page-account-wishlist",
+    "path": "/page/account/wishlist",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/account/wishlist.vue",
+    "chunkName": "pages/page/account/wishlist",
+    "_name": "_7b5d46d6"
+  },
+  {
+    "name": "page-compare-compare-1",
+    "path": "/page/compare/compare-1",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/compare/compare-1.vue",
+    "chunkName": "pages/page/compare/compare-1",
+    "_name": "_4294ea40"
+  },
+  {
+    "name": "page-compare-compare-2",
+    "path": "/page/compare/compare-2",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/compare/compare-2.vue",
+    "chunkName": "pages/page/compare/compare-2",
+    "_name": "_42a301c1"
+  },
+  {
+    "name": "page-element-banner",
+    "path": "/page/element/banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/element/banner.vue",
+    "chunkName": "pages/page/element/banner",
+    "_name": "_5062da64"
+  },
+  {
+    "name": "page-element-category",
+    "path": "/page/element/category",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/element/category.vue",
+    "chunkName": "pages/page/element/category",
+    "_name": "_4e9afd20"
+  },
+  {
+    "name": "page-element-collection-banner",
+    "path": "/page/element/collection-banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/element/collection-banner.vue",
+    "chunkName": "pages/page/element/collection-banner",
+    "_name": "_6eb00909"
+  },
+  {
+    "name": "page-element-home-slider",
+    "path": "/page/element/home-slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/element/home-slider.vue",
+    "chunkName": "pages/page/element/home-slider",
+    "_name": "_24ffd7dd"
+  },
+  {
+    "name": "page-element-logo-slider",
+    "path": "/page/element/logo-slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/element/logo-slider.vue",
+    "chunkName": "pages/page/element/logo-slider",
+    "_name": "_424bcf91"
+  },
+  {
+    "name": "page-element-multi-slider",
+    "path": "/page/element/multi-slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/element/multi-slider.vue",
+    "chunkName": "pages/page/element/multi-slider",
+    "_name": "_57a00397"
+  },
+  {
+    "name": "page-element-product-slider",
+    "path": "/page/element/product-slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/element/product-slider.vue",
+    "chunkName": "pages/page/element/product-slider",
+    "_name": "_3d6ef8be"
+  },
+  {
+    "name": "page-element-product-tabs",
+    "path": "/page/element/product-tabs",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/element/product-tabs.vue",
+    "chunkName": "pages/page/element/product-tabs",
+    "_name": "_89cc9c84"
+  },
+  {
+    "name": "page-element-service",
+    "path": "/page/element/service",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/element/service.vue",
+    "chunkName": "pages/page/element/service",
+    "_name": "_235b2103"
+  },
+  {
+    "name": "page-portfolio-masonary-fullwidth",
+    "path": "/page/portfolio/masonary-fullwidth",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/portfolio/masonary-fullwidth.vue",
+    "chunkName": "pages/page/portfolio/masonary-fullwidth",
+    "_name": "_432297ca"
+  },
+  {
+    "name": "page-portfolio-mesonary-grid-2",
+    "path": "/page/portfolio/mesonary-grid-2",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/portfolio/mesonary-grid-2.vue",
+    "chunkName": "pages/page/portfolio/mesonary-grid-2",
+    "_name": "_50a0d278"
+  },
+  {
+    "name": "page-portfolio-mesonary-grid-3",
+    "path": "/page/portfolio/mesonary-grid-3",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/portfolio/mesonary-grid-3.vue",
+    "chunkName": "pages/page/portfolio/mesonary-grid-3",
+    "_name": "_5084a376"
+  },
+  {
+    "name": "page-portfolio-mesonary-grid-4",
+    "path": "/page/portfolio/mesonary-grid-4",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/portfolio/mesonary-grid-4.vue",
+    "chunkName": "pages/page/portfolio/mesonary-grid-4",
+    "_name": "_50687474"
+  },
+  {
+    "name": "page-portfolio-portfolio-2-col",
+    "path": "/page/portfolio/portfolio-2-col",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/portfolio/portfolio-2-col.vue",
+    "chunkName": "pages/page/portfolio/portfolio-2-col",
+    "_name": "_5e05617a"
+  },
+  {
+    "name": "page-portfolio-portfolio-3-col",
+    "path": "/page/portfolio/portfolio-3-col",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/portfolio/portfolio-3-col.vue",
+    "chunkName": "pages/page/portfolio/portfolio-3-col",
+    "_name": "_1b6c5f0a"
+  },
+  {
+    "name": "page-portfolio-portfolio-4-col",
+    "path": "/page/portfolio/portfolio-4-col",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/portfolio/portfolio-4-col.vue",
+    "chunkName": "pages/page/portfolio/portfolio-4-col",
+    "_name": "_f2e38108"
+  },
+  {
+    "name": "product-sidebar-no-sidebar",
+    "path": "/product/sidebar/no-sidebar",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/product/sidebar/no-sidebar.vue",
+    "chunkName": "pages/product/sidebar/no-sidebar",
+    "_name": "_27526fa4"
+  },
+  {
+    "name": "product-sidebar-right-sidebar",
+    "path": "/product/sidebar/right-sidebar",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/product/sidebar/right-sidebar.vue",
+    "chunkName": "pages/product/sidebar/right-sidebar",
+    "_name": "_0e9dd687"
+  },
+  {
+    "name": "product-three-column-thumbnail-bottom",
+    "path": "/product/three-column/thumbnail-bottom",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/product/three-column/thumbnail-bottom.vue",
+    "chunkName": "pages/product/three-column/thumbnail-bottom",
+    "_name": "_052e1de5"
+  },
+  {
+    "name": "product-three-column-thumbnail-left",
+    "path": "/product/three-column/thumbnail-left",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/product/three-column/thumbnail-left.vue",
+    "chunkName": "pages/product/three-column/thumbnail-left",
+    "_name": "_04701641"
+  },
+  {
+    "name": "product-three-column-thumbnail-right",
+    "path": "/product/three-column/thumbnail-right",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/product/three-column/thumbnail-right.vue",
+    "chunkName": "pages/product/three-column/thumbnail-right",
+    "_name": "_7250685c"
+  },
+  {
+    "name": "product-thumbnail-image-image-outside",
+    "path": "/product/thumbnail-image/image-outside",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/product/thumbnail-image/image-outside.vue",
+    "chunkName": "pages/product/thumbnail-image/image-outside",
+    "_name": "_bb299726"
+  },
+  {
+    "name": "product-thumbnail-image-left-image",
+    "path": "/product/thumbnail-image/left-image",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/product/thumbnail-image/left-image.vue",
+    "chunkName": "pages/product/thumbnail-image/left-image",
+    "_name": "_e490796a"
+  },
+  {
+    "name": "product-thumbnail-image-right-image",
+    "path": "/product/thumbnail-image/right-image",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/product/thumbnail-image/right-image.vue",
+    "chunkName": "pages/product/thumbnail-image/right-image",
+    "_name": "_82acb6b8"
+  },
+  {
+    "name": "page-account-auth-auth",
+    "path": "/page/account/auth/auth",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/page/account/auth/auth.js",
+    "chunkName": "pages/page/account/auth/auth",
+    "_name": "_5cc456e1"
+  },
+  {
+    "name": "shop-bags-components-banner",
+    "path": "/shop/bags/components/banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/bags/components/banner.vue",
+    "chunkName": "pages/shop/bags/components/banner",
+    "_name": "_0aa0edee"
+  },
+  {
+    "name": "shop-bags-components-blog",
+    "path": "/shop/bags/components/blog",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/bags/components/blog.vue",
+    "chunkName": "pages/shop/bags/components/blog",
+    "_name": "_63a8c882"
+  },
+  {
+    "name": "shop-bags-components-category",
+    "path": "/shop/bags/components/category",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/bags/components/category.vue",
+    "chunkName": "pages/shop/bags/components/category",
+    "_name": "_3d17509b"
+  },
+  {
+    "name": "shop-bags-components-category2",
+    "path": "/shop/bags/components/category2",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/bags/components/category2.vue",
+    "chunkName": "pages/shop/bags/components/category2",
+    "_name": "_65ea6c27"
+  },
+  {
+    "name": "shop-bags-components-categorytab",
+    "path": "/shop/bags/components/categorytab",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/bags/components/categorytab.vue",
+    "chunkName": "pages/shop/bags/components/categorytab",
+    "_name": "_e3aec26c"
+  },
+  {
+    "name": "shop-bags-components-instagram",
+    "path": "/shop/bags/components/instagram",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/bags/components/instagram.vue",
+    "chunkName": "pages/shop/bags/components/instagram",
+    "_name": "_3e1201e5"
+  },
+  {
+    "name": "shop-bags-components-productcategoryslider",
+    "path": "/shop/bags/components/productcategoryslider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/bags/components/productcategoryslider.vue",
+    "chunkName": "pages/shop/bags/components/productcategoryslider",
+    "_name": "_03d159c1"
+  },
+  {
+    "name": "shop-bags-components-productslider",
+    "path": "/shop/bags/components/productslider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/bags/components/productslider.vue",
+    "chunkName": "pages/shop/bags/components/productslider",
+    "_name": "_cc7da77a"
+  },
+  {
+    "name": "shop-bags-components-services",
+    "path": "/shop/bags/components/services",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/bags/components/services.vue",
+    "chunkName": "pages/shop/bags/components/services",
+    "_name": "_3a30f3fb"
+  },
+  {
+    "name": "shop-bags-components-slider",
+    "path": "/shop/bags/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/bags/components/slider.vue",
+    "chunkName": "pages/shop/bags/components/slider",
+    "_name": "_7a1ca03e"
+  },
+  {
+    "name": "shop-beauty-components-about",
+    "path": "/shop/beauty/components/about",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/beauty/components/about.vue",
+    "chunkName": "pages/shop/beauty/components/about",
+    "_name": "_71f16962"
+  },
+  {
+    "name": "shop-beauty-components-blog",
+    "path": "/shop/beauty/components/blog",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/beauty/components/blog.vue",
+    "chunkName": "pages/shop/beauty/components/blog",
+    "_name": "_0aca2050"
+  },
+  {
+    "name": "shop-beauty-components-instagram",
+    "path": "/shop/beauty/components/instagram",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/beauty/components/instagram.vue",
+    "chunkName": "pages/shop/beauty/components/instagram",
+    "_name": "_6b54aff4"
+  },
+  {
+    "name": "shop-beauty-components-product-slider",
+    "path": "/shop/beauty/components/product-slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/beauty/components/product-slider.vue",
+    "chunkName": "pages/shop/beauty/components/product-slider",
+    "_name": "_39285ba6"
+  },
+  {
+    "name": "shop-beauty-components-slider",
+    "path": "/shop/beauty/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/beauty/components/slider.vue",
+    "chunkName": "pages/shop/beauty/components/slider",
+    "_name": "_092c448f"
+  },
+  {
+    "name": "shop-beauty-components-top-product-slider",
+    "path": "/shop/beauty/components/top-product-slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/beauty/components/top-product-slider.vue",
+    "chunkName": "pages/shop/beauty/components/top-product-slider",
+    "_name": "_12b7dab6"
+  },
+  {
+    "name": "shop-beauty-components-video-tutorial",
+    "path": "/shop/beauty/components/video-tutorial",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/beauty/components/video-tutorial.vue",
+    "chunkName": "pages/shop/beauty/components/video-tutorial",
+    "_name": "_1f6c2ac4"
+  },
+  {
+    "name": "shop-electronics-1-components-collection_banner",
+    "path": "/shop/electronics-1/components/collection_banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/electronics-1/components/collection_banner.vue",
+    "chunkName": "pages/shop/electronics-1/components/collection_banner",
+    "_name": "_44410a50"
+  },
+  {
+    "name": "shop-electronics-1-components-product_tab",
+    "path": "/shop/electronics-1/components/product_tab",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/electronics-1/components/product_tab.vue",
+    "chunkName": "pages/shop/electronics-1/components/product_tab",
+    "_name": "_19294230"
+  },
+  {
+    "name": "shop-electronics-1-components-slider",
+    "path": "/shop/electronics-1/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/electronics-1/components/slider.vue",
+    "chunkName": "pages/shop/electronics-1/components/slider",
+    "_name": "_44cf04e4"
+  },
+  {
+    "name": "shop-fashion-2-components-banner",
+    "path": "/shop/fashion-2/components/banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion-2/components/banner.vue",
+    "chunkName": "pages/shop/fashion-2/components/banner",
+    "_name": "_682984db"
+  },
+  {
+    "name": "shop-fashion-2-components-collection",
+    "path": "/shop/fashion-2/components/collection",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion-2/components/collection.vue",
+    "chunkName": "pages/shop/fashion-2/components/collection",
+    "_name": "_2de847cd"
+  },
+  {
+    "name": "shop-fashion-2-components-collection-banner",
+    "path": "/shop/fashion-2/components/collection-banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion-2/components/collection-banner.vue",
+    "chunkName": "pages/shop/fashion-2/components/collection-banner",
+    "_name": "_546f3cdc"
+  },
+  {
+    "name": "shop-fashion-2-components-instagram",
+    "path": "/shop/fashion-2/components/instagram",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion-2/components/instagram.vue",
+    "chunkName": "pages/shop/fashion-2/components/instagram",
+    "_name": "_24719cd3"
+  },
+  {
+    "name": "shop-fashion-2-components-product",
+    "path": "/shop/fashion-2/components/product",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion-2/components/product.vue",
+    "chunkName": "pages/shop/fashion-2/components/product",
+    "_name": "_8f326c60"
+  },
+  {
+    "name": "shop-fashion-2-components-slider",
+    "path": "/shop/fashion-2/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion-2/components/slider.vue",
+    "chunkName": "pages/shop/fashion-2/components/slider",
+    "_name": "_30d2c7e0"
+  },
+  {
+    "name": "shop-fashion-3-components-banner",
+    "path": "/shop/fashion-3/components/banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion-3/components/banner.vue",
+    "chunkName": "pages/shop/fashion-3/components/banner",
+    "_name": "_9b49c3c8"
+  },
+  {
+    "name": "shop-fashion-3-components-product_slider",
+    "path": "/shop/fashion-3/components/product_slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion-3/components/product_slider.vue",
+    "chunkName": "pages/shop/fashion-3/components/product_slider",
+    "_name": "_4cc26abe"
+  },
+  {
+    "name": "shop-fashion-3-components-product_tab",
+    "path": "/shop/fashion-3/components/product_tab",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion-3/components/product_tab.vue",
+    "chunkName": "pages/shop/fashion-3/components/product_tab",
+    "_name": "_78370905"
+  },
+  {
+    "name": "shop-fashion-3-components-slider",
+    "path": "/shop/fashion-3/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion-3/components/slider.vue",
+    "chunkName": "pages/shop/fashion-3/components/slider",
+    "_name": "_31c83551"
+  },
+  {
+    "name": "shop-fashion-components-banner",
+    "path": "/shop/fashion/components/banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion/components/banner.vue",
+    "chunkName": "pages/shop/fashion/components/banner",
+    "_name": "_648c9a14"
+  },
+  {
+    "name": "shop-fashion-components-blog",
+    "path": "/shop/fashion/components/blog",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion/components/blog.vue",
+    "chunkName": "pages/shop/fashion/components/blog",
+    "_name": "_27a15cec"
+  },
+  {
+    "name": "shop-fashion-components-collection_banner",
+    "path": "/shop/fashion/components/collection_banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion/components/collection_banner.vue",
+    "chunkName": "pages/shop/fashion/components/collection_banner",
+    "_name": "_b604acda"
+  },
+  {
+    "name": "shop-fashion-components-instagram",
+    "path": "/shop/fashion/components/instagram",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion/components/instagram.vue",
+    "chunkName": "pages/shop/fashion/components/instagram",
+    "_name": "_29d6f4d8"
+  },
+  {
+    "name": "shop-fashion-components-logo_slider",
+    "path": "/shop/fashion/components/logo_slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion/components/logo_slider.vue",
+    "chunkName": "pages/shop/fashion/components/logo_slider",
+    "_name": "_3b41721b"
+  },
+  {
+    "name": "shop-fashion-components-product_slider",
+    "path": "/shop/fashion/components/product_slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion/components/product_slider.vue",
+    "chunkName": "pages/shop/fashion/components/product_slider",
+    "_name": "_ed20350a"
+  },
+  {
+    "name": "shop-fashion-components-product_tab",
+    "path": "/shop/fashion/components/product_tab",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion/components/product_tab.vue",
+    "chunkName": "pages/shop/fashion/components/product_tab",
+    "_name": "_6e55272a"
+  },
+  {
+    "name": "shop-fashion-components-services",
+    "path": "/shop/fashion/components/services",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion/components/services.vue",
+    "chunkName": "pages/shop/fashion/components/services",
+    "_name": "_735856a8"
+  },
+  {
+    "name": "shop-fashion-components-slider",
+    "path": "/shop/fashion/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/fashion/components/slider.vue",
+    "chunkName": "pages/shop/fashion/components/slider",
+    "_name": "_4d26ca2b"
+  },
+  {
+    "name": "shop-flower-components-blog",
+    "path": "/shop/flower/components/blog",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/flower/components/blog.vue",
+    "chunkName": "pages/shop/flower/components/blog",
+    "_name": "_5c1436a2"
+  },
+  {
+    "name": "shop-flower-components-category_tab",
+    "path": "/shop/flower/components/category_tab",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/flower/components/category_tab.vue",
+    "chunkName": "pages/shop/flower/components/category_tab",
+    "_name": "_78ba83e1"
+  },
+  {
+    "name": "shop-flower-components-collection_banner",
+    "path": "/shop/flower/components/collection_banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/flower/components/collection_banner.vue",
+    "chunkName": "pages/shop/flower/components/collection_banner",
+    "_name": "_646d16b0"
+  },
+  {
+    "name": "shop-flower-components-instagram",
+    "path": "/shop/flower/components/instagram",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/flower/components/instagram.vue",
+    "chunkName": "pages/shop/flower/components/instagram",
+    "_name": "_7effcef5"
+  },
+  {
+    "name": "shop-flower-components-product_slider",
+    "path": "/shop/flower/components/product_slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/flower/components/product_slider.vue",
+    "chunkName": "pages/shop/flower/components/product_slider",
+    "_name": "_5f3bd57e"
+  },
+  {
+    "name": "shop-flower-components-services",
+    "path": "/shop/flower/components/services",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/flower/components/services.vue",
+    "chunkName": "pages/shop/flower/components/services",
+    "_name": "_4ccd44eb"
+  },
+  {
+    "name": "shop-flower-components-slider",
+    "path": "/shop/flower/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/flower/components/slider.vue",
+    "chunkName": "pages/shop/flower/components/slider",
+    "_name": "_970f25a4"
+  },
+  {
+    "name": "shop-flower-components-top_products",
+    "path": "/shop/flower/components/top_products",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/flower/components/top_products.vue",
+    "chunkName": "pages/shop/flower/components/top_products",
+    "_name": "_708069ca"
+  },
+  {
+    "name": "shop-furniture-components-blog",
+    "path": "/shop/furniture/components/blog",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/furniture/components/blog.vue",
+    "chunkName": "pages/shop/furniture/components/blog",
+    "_name": "_a58debb4"
+  },
+  {
+    "name": "shop-furniture-components-category_tab",
+    "path": "/shop/furniture/components/category_tab",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/furniture/components/category_tab.vue",
+    "chunkName": "pages/shop/furniture/components/category_tab",
+    "_name": "_30d84258"
+  },
+  {
+    "name": "shop-furniture-components-collection_banner",
+    "path": "/shop/furniture/components/collection_banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/furniture/components/collection_banner.vue",
+    "chunkName": "pages/shop/furniture/components/collection_banner",
+    "_name": "_3a46ca99"
+  },
+  {
+    "name": "shop-furniture-components-parallax_banner",
+    "path": "/shop/furniture/components/parallax_banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/furniture/components/parallax_banner.vue",
+    "chunkName": "pages/shop/furniture/components/parallax_banner",
+    "_name": "_7355fb00"
+  },
+  {
+    "name": "shop-furniture-components-slider",
+    "path": "/shop/furniture/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/furniture/components/slider.vue",
+    "chunkName": "pages/shop/furniture/components/slider",
+    "_name": "_68efde36"
+  },
+  {
+    "name": "shop-gym-components-blog",
+    "path": "/shop/gym/components/blog",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/gym/components/blog.vue",
+    "chunkName": "pages/shop/gym/components/blog",
+    "_name": "_70d4096f"
+  },
+  {
+    "name": "shop-gym-components-collection-banner",
+    "path": "/shop/gym/components/collection-banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/gym/components/collection-banner.vue",
+    "chunkName": "pages/shop/gym/components/collection-banner",
+    "_name": "_3f547f84"
+  },
+  {
+    "name": "shop-gym-components-instagram",
+    "path": "/shop/gym/components/instagram",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/gym/components/instagram.vue",
+    "chunkName": "pages/shop/gym/components/instagram",
+    "_name": "_30faa235"
+  },
+  {
+    "name": "shop-gym-components-logo-slider",
+    "path": "/shop/gym/components/logo-slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/gym/components/logo-slider.vue",
+    "chunkName": "pages/shop/gym/components/logo-slider",
+    "_name": "_18f75af4"
+  },
+  {
+    "name": "shop-gym-components-product-list",
+    "path": "/shop/gym/components/product-list",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/gym/components/product-list.vue",
+    "chunkName": "pages/shop/gym/components/product-list",
+    "_name": "_93ab0aee"
+  },
+  {
+    "name": "shop-gym-components-slider",
+    "path": "/shop/gym/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/gym/components/slider.vue",
+    "chunkName": "pages/shop/gym/components/slider",
+    "_name": "_146061ee"
+  },
+  {
+    "name": "shop-gym-components-top-collection",
+    "path": "/shop/gym/components/top-collection",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/gym/components/top-collection.vue",
+    "chunkName": "pages/shop/gym/components/top-collection",
+    "_name": "_b5a1b8ba"
+  },
+  {
+    "name": "shop-jewellery-components-category",
+    "path": "/shop/jewellery/components/category",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/jewellery/components/category.vue",
+    "chunkName": "pages/shop/jewellery/components/category",
+    "_name": "_6c5a70d3"
+  },
+  {
+    "name": "shop-jewellery-components-instagram",
+    "path": "/shop/jewellery/components/instagram",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/jewellery/components/instagram.vue",
+    "chunkName": "pages/shop/jewellery/components/instagram",
+    "_name": "_119a2ea6"
+  },
+  {
+    "name": "shop-jewellery-components-parallax-banner",
+    "path": "/shop/jewellery/components/parallax-banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/jewellery/components/parallax-banner.vue",
+    "chunkName": "pages/shop/jewellery/components/parallax-banner",
+    "_name": "_588a66dd"
+  },
+  {
+    "name": "shop-jewellery-components-product-slider",
+    "path": "/shop/jewellery/components/product-slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/jewellery/components/product-slider.vue",
+    "chunkName": "pages/shop/jewellery/components/product-slider",
+    "_name": "_453db5d8"
+  },
+  {
+    "name": "shop-jewellery-components-product-tab",
+    "path": "/shop/jewellery/components/product-tab",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/jewellery/components/product-tab.vue",
+    "chunkName": "pages/shop/jewellery/components/product-tab",
+    "_name": "_6508fb72"
+  },
+  {
+    "name": "shop-jewellery-components-services",
+    "path": "/shop/jewellery/components/services",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/jewellery/components/services.vue",
+    "chunkName": "pages/shop/jewellery/components/services",
+    "_name": "_69741433"
+  },
+  {
+    "name": "shop-jewellery-components-slider",
+    "path": "/shop/jewellery/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/jewellery/components/slider.vue",
+    "chunkName": "pages/shop/jewellery/components/slider",
+    "_name": "_dccb2314"
+  },
+  {
+    "name": "shop-kids-components-collection_banner",
+    "path": "/shop/kids/components/collection_banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/kids/components/collection_banner.vue",
+    "chunkName": "pages/shop/kids/components/collection_banner",
+    "_name": "_6dab4cde"
+  },
+  {
+    "name": "shop-kids-components-collection_slider",
+    "path": "/shop/kids/components/collection_slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/kids/components/collection_slider.vue",
+    "chunkName": "pages/shop/kids/components/collection_slider",
+    "_name": "_25cf37da"
+  },
+  {
+    "name": "shop-kids-components-instagram",
+    "path": "/shop/kids/components/instagram",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/kids/components/instagram.vue",
+    "chunkName": "pages/shop/kids/components/instagram",
+    "_name": "_e713d9ba"
+  },
+  {
+    "name": "shop-kids-components-logo_slider",
+    "path": "/shop/kids/components/logo_slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/kids/components/logo_slider.vue",
+    "chunkName": "pages/shop/kids/components/logo_slider",
+    "_name": "_729229a6"
+  },
+  {
+    "name": "shop-kids-components-parallax_banner",
+    "path": "/shop/kids/components/parallax_banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/kids/components/parallax_banner.vue",
+    "chunkName": "pages/shop/kids/components/parallax_banner",
+    "_name": "_27df6af6"
+  },
+  {
+    "name": "shop-kids-components-product_slider",
+    "path": "/shop/kids/components/product_slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/kids/components/product_slider.vue",
+    "chunkName": "pages/shop/kids/components/product_slider",
+    "_name": "_b8e203e0"
+  },
+  {
+    "name": "shop-kids-components-slider",
+    "path": "/shop/kids/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/kids/components/slider.vue",
+    "chunkName": "pages/shop/kids/components/slider",
+    "_name": "_8f837080"
+  },
+  {
+    "name": "shop-pets-components-blog",
+    "path": "/shop/pets/components/blog",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/pets/components/blog.vue",
+    "chunkName": "pages/shop/pets/components/blog",
+    "_name": "_d85b69f0"
+  },
+  {
+    "name": "shop-pets-components-collection-banner",
+    "path": "/shop/pets/components/collection-banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/pets/components/collection-banner.vue",
+    "chunkName": "pages/shop/pets/components/collection-banner",
+    "_name": "_57d69f45"
+  },
+  {
+    "name": "shop-pets-components-logo-slider",
+    "path": "/shop/pets/components/logo-slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/pets/components/logo-slider.vue",
+    "chunkName": "pages/shop/pets/components/logo-slider",
+    "_name": "_58bec2cd"
+  },
+  {
+    "name": "shop-pets-components-parallax-banner",
+    "path": "/shop/pets/components/parallax-banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/pets/components/parallax-banner.vue",
+    "chunkName": "pages/shop/pets/components/parallax-banner",
+    "_name": "_7ac461a8"
+  },
+  {
+    "name": "shop-pets-components-product-slider",
+    "path": "/shop/pets/components/product-slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/pets/components/product-slider.vue",
+    "chunkName": "pages/shop/pets/components/product-slider",
+    "_name": "_4c27f6e5"
+  },
+  {
+    "name": "shop-pets-components-slider",
+    "path": "/shop/pets/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/pets/components/slider.vue",
+    "chunkName": "pages/shop/pets/components/slider",
+    "_name": "_70d4a147"
+  },
+  {
+    "name": "shop-pets-components-top-collection",
+    "path": "/shop/pets/components/top-collection",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/pets/components/top-collection.vue",
+    "chunkName": "pages/shop/pets/components/top-collection",
+    "_name": "_9e820c08"
+  },
+  {
+    "name": "shop-shoes-components-about",
+    "path": "/shop/shoes/components/about",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/shoes/components/about.vue",
+    "chunkName": "pages/shop/shoes/components/about",
+    "_name": "_55e8af03"
+  },
+  {
+    "name": "shop-shoes-components-blog",
+    "path": "/shop/shoes/components/blog",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/shoes/components/blog.vue",
+    "chunkName": "pages/shop/shoes/components/blog",
+    "_name": "_75d913c8"
+  },
+  {
+    "name": "shop-shoes-components-brand",
+    "path": "/shop/shoes/components/brand",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/shoes/components/brand.vue",
+    "chunkName": "pages/shop/shoes/components/brand",
+    "_name": "_76d549fd"
+  },
+  {
+    "name": "shop-shoes-components-category",
+    "path": "/shop/shoes/components/category",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/shoes/components/category.vue",
+    "chunkName": "pages/shop/shoes/components/category",
+    "_name": "_6da0b478"
+  },
+  {
+    "name": "shop-shoes-components-category2",
+    "path": "/shop/shoes/components/category2",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/shoes/components/category2.vue",
+    "chunkName": "pages/shop/shoes/components/category2",
+    "_name": "_468d83ea"
+  },
+  {
+    "name": "shop-shoes-components-category3",
+    "path": "/shop/shoes/components/category3",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/shoes/components/category3.vue",
+    "chunkName": "pages/shop/shoes/components/category3",
+    "_name": "_469b9b6b"
+  },
+  {
+    "name": "shop-shoes-components-collectionbanner",
+    "path": "/shop/shoes/components/collectionbanner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/shoes/components/collectionbanner.vue",
+    "chunkName": "pages/shop/shoes/components/collectionbanner",
+    "_name": "_efc7a278"
+  },
+  {
+    "name": "shop-shoes-components-collectionslider",
+    "path": "/shop/shoes/components/collectionslider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/shoes/components/collectionslider.vue",
+    "chunkName": "pages/shop/shoes/components/collectionslider",
+    "_name": "_078945f9"
+  },
+  {
+    "name": "shop-shoes-components-collectiontab",
+    "path": "/shop/shoes/components/collectiontab",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/shoes/components/collectiontab.vue",
+    "chunkName": "pages/shop/shoes/components/collectiontab",
+    "_name": "_c8d3e6a6"
+  },
+  {
+    "name": "shop-shoes-components-instagram",
+    "path": "/shop/shoes/components/instagram",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/shoes/components/instagram.vue",
+    "chunkName": "pages/shop/shoes/components/instagram",
+    "_name": "_1eb519a8"
+  },
+  {
+    "name": "shop-shoes-components-productSlider",
+    "path": "/shop/shoes/components/productSlider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/shoes/components/productSlider.vue",
+    "chunkName": "pages/shop/shoes/components/productSlider",
+    "_name": "_368e86a6"
+  },
+  {
+    "name": "shop-shoes-components-service",
+    "path": "/shop/shoes/components/service",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/shoes/components/service.vue",
+    "chunkName": "pages/shop/shoes/components/service",
+    "_name": "_0b951eab"
+  },
+  {
+    "name": "shop-shoes-components-slider",
+    "path": "/shop/shoes/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/shoes/components/slider.vue",
+    "chunkName": "pages/shop/shoes/components/slider",
+    "_name": "_5677575b"
+  },
+  {
+    "name": "shop-tools-components-about",
+    "path": "/shop/tools/components/about",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/tools/components/about.vue",
+    "chunkName": "pages/shop/tools/components/about",
+    "_name": "_07216420"
+  },
+  {
+    "name": "shop-tools-components-category",
+    "path": "/shop/tools/components/category",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/tools/components/category.vue",
+    "chunkName": "pages/shop/tools/components/category",
+    "_name": "_3999126b"
+  },
+  {
+    "name": "shop-tools-components-logo_slider",
+    "path": "/shop/tools/components/logo_slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/tools/components/logo_slider.vue",
+    "chunkName": "pages/shop/tools/components/logo_slider",
+    "_name": "_a632c7d0"
+  },
+  {
+    "name": "shop-tools-components-product-slider",
+    "path": "/shop/tools/components/product-slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/tools/components/product-slider.vue",
+    "chunkName": "pages/shop/tools/components/product-slider",
+    "_name": "_781634ac"
+  },
+  {
+    "name": "shop-tools-components-product-tab-slider",
+    "path": "/shop/tools/components/product-tab-slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/tools/components/product-tab-slider.vue",
+    "chunkName": "pages/shop/tools/components/product-tab-slider",
+    "_name": "_599c9f38"
+  },
+  {
+    "name": "shop-tools-components-select-vehical",
+    "path": "/shop/tools/components/select-vehical",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/tools/components/select-vehical.vue",
+    "chunkName": "pages/shop/tools/components/select-vehical",
+    "_name": "_7d8aa78c"
+  },
+  {
+    "name": "shop-tools-components-service",
+    "path": "/shop/tools/components/service",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/tools/components/service.vue",
+    "chunkName": "pages/shop/tools/components/service",
+    "_name": "_2aefb658"
+  },
+  {
+    "name": "shop-tools-components-slider",
+    "path": "/shop/tools/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/tools/components/slider.vue",
+    "chunkName": "pages/shop/tools/components/slider",
+    "_name": "_fe76d3e4"
+  },
+  {
+    "name": "shop-vegetables-components-banner",
+    "path": "/shop/vegetables/components/banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/vegetables/components/banner.vue",
+    "chunkName": "pages/shop/vegetables/components/banner",
+    "_name": "_133e14d0"
+  },
+  {
+    "name": "shop-vegetables-components-blog",
+    "path": "/shop/vegetables/components/blog",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/vegetables/components/blog.vue",
+    "chunkName": "pages/shop/vegetables/components/blog",
+    "_name": "_12a86d46"
+  },
+  {
+    "name": "shop-vegetables-components-product_slider",
+    "path": "/shop/vegetables/components/product_slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/vegetables/components/product_slider.vue",
+    "chunkName": "pages/shop/vegetables/components/product_slider",
+    "_name": "_3b49cd55"
+  },
+  {
+    "name": "shop-vegetables-components-services",
+    "path": "/shop/vegetables/components/services",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/vegetables/components/services.vue",
+    "chunkName": "pages/shop/vegetables/components/services",
+    "_name": "_694baa02"
+  },
+  {
+    "name": "shop-vegetables-components-slider",
+    "path": "/shop/vegetables/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/vegetables/components/slider.vue",
+    "chunkName": "pages/shop/vegetables/components/slider",
+    "_name": "_daa9a7f6"
+  },
+  {
+    "name": "shop-vegetables-components-special_products",
+    "path": "/shop/vegetables/components/special_products",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/vegetables/components/special_products.vue",
+    "chunkName": "pages/shop/vegetables/components/special_products",
+    "_name": "_538289ce"
+  },
+  {
+    "name": "shop-watch-components-blog",
+    "path": "/shop/watch/components/blog",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/watch/components/blog.vue",
+    "chunkName": "pages/shop/watch/components/blog",
+    "_name": "_65b882fa"
+  },
+  {
+    "name": "shop-watch-components-category",
+    "path": "/shop/watch/components/category",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/watch/components/category.vue",
+    "chunkName": "pages/shop/watch/components/category",
+    "_name": "_2c0f1d42"
+  },
+  {
+    "name": "shop-watch-components-categorytabs",
+    "path": "/shop/watch/components/categorytabs",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/watch/components/categorytabs.vue",
+    "chunkName": "pages/shop/watch/components/categorytabs",
+    "_name": "_5cb1fa5d"
+  },
+  {
+    "name": "shop-watch-components-collectionbanners",
+    "path": "/shop/watch/components/collectionbanners",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/watch/components/collectionbanners.vue",
+    "chunkName": "pages/shop/watch/components/collectionbanners",
+    "_name": "_51f621d8"
+  },
+  {
+    "name": "shop-watch-components-instagram",
+    "path": "/shop/watch/components/instagram",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/watch/components/instagram.vue",
+    "chunkName": "pages/shop/watch/components/instagram",
+    "_name": "_2d54f9a1"
+  },
+  {
+    "name": "shop-watch-components-logo_slider",
+    "path": "/shop/watch/components/logo_slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/watch/components/logo_slider.vue",
+    "chunkName": "pages/shop/watch/components/logo_slider",
+    "_name": "_575168a4"
+  },
+  {
+    "name": "shop-watch-components-product_slider",
+    "path": "/shop/watch/components/product_slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/watch/components/product_slider.vue",
+    "chunkName": "pages/shop/watch/components/product_slider",
+    "_name": "_2f127652"
+  },
+  {
+    "name": "shop-watch-components-services",
+    "path": "/shop/watch/components/services",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/watch/components/services.vue",
+    "chunkName": "pages/shop/watch/components/services",
+    "_name": "_31dbd682"
+  },
+  {
+    "name": "shop-watch-components-slider",
+    "path": "/shop/watch/components/slider",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/watch/components/slider.vue",
+    "chunkName": "pages/shop/watch/components/slider",
+    "_name": "_c8d1bbfc"
+  },
+  {
+    "name": "shop-watch-components-timer_banner",
+    "path": "/shop/watch/components/timer_banner",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/watch/components/timer_banner.vue",
+    "chunkName": "pages/shop/watch/components/timer_banner",
+    "_name": "_19fc6147"
+  },
+  {
+    "name": "shop-watch-components-top_products",
+    "path": "/shop/watch/components/top_products",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/shop/watch/components/top_products.vue",
+    "chunkName": "pages/shop/watch/components/top_products",
+    "_name": "_10b090ef"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_72407141"
+  },
+  {
+    "name": "collection-leftsidebar-id",
+    "path": "/collection/leftsidebar/:id?",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/collection/leftsidebar/_id.vue",
+    "chunkName": "pages/collection/leftsidebar/_id",
+    "_name": "_8099dd60"
+  },
+  {
+    "name": "product-sidebar-id",
+    "path": "/product/sidebar/:id?",
+    "component": "/Users/admin/work/react/multikart-30april22/multikart-30april22/multikart-responsive-vuejs-ecommerce-template/frontend/pages/product/sidebar/_id.vue",
+    "chunkName": "pages/product/sidebar/_id",
+    "_name": "_a0408dd4"
+  }
+]

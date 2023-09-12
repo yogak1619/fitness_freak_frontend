@@ -13,9 +13,9 @@ import { createStore } from './store.js'
 
 /* Plugins */
 
-import nuxt_plugin_bootstrapvue_e6479128 from 'nuxt_plugin_bootstrapvue_e6479128' // Source: ./bootstrap-vue.js (mode: 'all')
-import nuxt_plugin_vuescrollto_d83ddda8 from 'nuxt_plugin_vuescrollto_d83ddda8' // Source: ./vue-scrollto.js (mode: 'client')
-import nuxt_plugin_axios_6f3ae63d from 'nuxt_plugin_axios_6f3ae63d' // Source: ./axios.js (mode: 'all')
+import nuxt_plugin_bootstrapvue_aee07bd2 from 'nuxt_plugin_bootstrapvue_aee07bd2' // Source: ./bootstrap-vue.js (mode: 'all')
+import nuxt_plugin_vuescrollto_a4e7f5be from 'nuxt_plugin_vuescrollto_a4e7f5be' // Source: ./vue-scrollto.js (mode: 'client')
+import nuxt_plugin_axios_59256830 from 'nuxt_plugin_axios_59256830' // Source: ./axios.js (mode: 'all')
 import nuxt_plugin_plugin_03b7832e from 'nuxt_plugin_plugin_03b7832e' // Source: ../plugins/plugin.js (mode: 'client')
 import nuxt_plugin_localStorage_830ec59e from 'nuxt_plugin_localStorage_830ec59e' // Source: ../plugins/localStorage.js (mode: 'client')
 
@@ -212,16 +212,16 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_bootstrapvue_e6479128 === 'function') {
-    await nuxt_plugin_bootstrapvue_e6479128(app.context, inject)
+  if (typeof nuxt_plugin_bootstrapvue_aee07bd2 === 'function') {
+    await nuxt_plugin_bootstrapvue_aee07bd2(app.context, inject)
   }
 
-  if (process.client && typeof nuxt_plugin_vuescrollto_d83ddda8 === 'function') {
-    await nuxt_plugin_vuescrollto_d83ddda8(app.context, inject)
+  if (process.client && typeof nuxt_plugin_vuescrollto_a4e7f5be === 'function') {
+    await nuxt_plugin_vuescrollto_a4e7f5be(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_axios_6f3ae63d === 'function') {
-    await nuxt_plugin_axios_6f3ae63d(app.context, inject)
+  if (typeof nuxt_plugin_axios_59256830 === 'function') {
+    await nuxt_plugin_axios_59256830(app.context, inject)
   }
 
   if (process.client && typeof nuxt_plugin_plugin_03b7832e === 'function') {

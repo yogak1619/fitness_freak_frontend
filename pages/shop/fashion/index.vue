@@ -5,11 +5,9 @@
     <CollectionBanner />
     <ProductSlider :products="products" @openQuickview="showQuickview" @openCompare="showCoampre" @openCart="showCart" />
     <Banner />
-    <ProductTab :products="products" :category="category" @openQuickview="showQuickview" @openCompare="showCoampre" @openCart="showCart" />
-    <Services />
     <Blog />
-    <Instagram />
-    <LogoSlider />
+    
+    
     <Footer />
     <quickviewModel :openModal="showquickviewmodel" :productData="quickviewproduct" />
     <compareModel :openCompare="showcomparemodal" :productData="comapreproduct" @closeCompare="closeCompareModal" />
@@ -17,6 +15,11 @@
     <newsletterModel />
   </div>
 </template>
+
+    {/*<ProductTab :products="products" :category="category" @openQuickview="showQuickview" @openCompare="showCoampre" @openCart="showCart" />*/}
+    {/*<Services />*/}
+    {/*<LogoSlider />*/}
+{/*<Instagram />*/}
 <script>
 import { mapState } from 'vuex'
 import Header from '../../../components/header/header1'
@@ -29,11 +32,11 @@ import Slider from './components/slider'
 import CollectionBanner from './components/collection_banner'
 import ProductSlider from './components/product_slider'
 import Banner from './components/banner'
-import ProductTab from './components/product_tab'
-import Services from './components/services'
+// import ProductTab from './components/product_tab'
+// import Services from './components/services'
 import Blog from './components/blog'
-import Instagram from './components/instagram'
-import LogoSlider from './components/logo_slider'
+{/*import Instagram from './components/instagram'*/}
+{/*import LogoSlider from './components/logo_slider'*/}
 
 export default {
   components: {
@@ -42,11 +45,11 @@ export default {
     CollectionBanner,
     ProductSlider,
     Banner,
-    ProductTab,
-    Services,
+    // ProductTab,
+    // Services,
     Blog,
-    Instagram,
-    LogoSlider,
+    // Instagram,
+    // LogoSlider,
     Footer,
     quickviewModel,
     compareModel,

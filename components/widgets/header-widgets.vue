@@ -44,7 +44,7 @@
                           </div>
                           <div class="product-detail">
                             <nuxt-link :to="{ path: '/product/sidebar/'+product.id}">
-                              <h6>{{ product.title }}</h6>
+                              <h6>{{ product.title }} 123456789</h6>
                             </nuxt-link>
                             <h4>{{ product.price * curr.curr | currency(curr.symbol) }}</h4>
                           </div>

@@ -8,7 +8,7 @@
               <div class="col-lg-6">
                 <div class="subscribe">
                   <div>
-                    <h4>KNOW IT ALL FIRST! 12313</h4>
+                    <h4>KNOW IT ALL FIRST!</h4>
                     <p>Never Miss Anything From Multikart By Signing Up To Our Newsletter.</p>
                   </div>
                 </div>

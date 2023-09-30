@@ -3,37 +3,39 @@
     <Header />
     <Slider />
     <CollectionBanner />
-    <ProductSlider :products="products" @openQuickview="showQuickview" @openCompare="showCoampre" @openCart="showCart" />
+    <ProductSlider :products="products" @openQuickview="showQuickview" @openCart="showCart" />
     <Banner />
-    <ProductTab :products="products" :category="category" @openQuickview="showQuickview" @openCompare="showCoampre" @openCart="showCart" />
-    <Services />
     <Blog />
-    <Instagram />
-    <LogoSlider />
+    
+    
     <Footer />
     <quickviewModel :openModal="showquickviewmodel" :productData="quickviewproduct" />
-    <compareModel :openCompare="showcomparemodal" :productData="comapreproduct" @closeCompare="closeCompareModal" />
+    
     <cartModel :openCart="showcartmodal" :productData="cartproduct" @closeCart="closeCartModal" :products="products" />
     <newsletterModel />
   </div>
 </template>
+
+    {/*<ProductTab :products="products" :category="category" @openQuickview="showQuickview" @openCart="showCart" />*/}
+    {/*<Services />*/}
+    {/*<LogoSlider />*/}
+{/*<Instagram />*/}
 <script>
 import { mapState } from 'vuex'
 import Header from '../../../components/header/header1'
 import Footer from '../../../components/footer/footer1'
 import quickviewModel from '../../../components/widgets/quickview'
-import compareModel from '../../../components/widgets/compare-popup'
 import cartModel from '../../../components/cart-model/cart-modal-popup'
 import newsletterModel from '../../../components/widgets/newsletter-popup'
 import Slider from './components/slider'
 import CollectionBanner from './components/collection_banner'
 import ProductSlider from './components/product_slider'
 import Banner from './components/banner'
-import ProductTab from './components/product_tab'
-import Services from './components/services'
+// import ProductTab from './components/product_tab'
+// import Services from './components/services'
 import Blog from './components/blog'
-import Instagram from './components/instagram'
-import LogoSlider from './components/logo_slider'
+{/*import Instagram from './components/instagram'*/}
+{/*import LogoSlider from './components/logo_slider'*/}
 
 export default {
   components: {
@@ -42,14 +44,13 @@ export default {
     CollectionBanner,
     ProductSlider,
     Banner,
-    ProductTab,
-    Services,
+    // ProductTab,
+    // Services,
     Blog,
-    Instagram,
-    LogoSlider,
+    // Instagram,
+    // LogoSlider,
     Footer,
     quickviewModel,
-    compareModel,
     cartModel,
     newsletterModel
   },
@@ -58,7 +59,6 @@ export default {
       products: [],
       category: [],
       showquickviewmodel: false,
-      showcomparemodal: false,
       showcartmodal: false,
       quickviewproduct: {},
       comapreproduct: {},
@@ -88,13 +88,6 @@ export default {
     showQuickview(item, productData) {
       this.showquickviewmodel = item
       this.quickviewproduct = productData
-    },
-    showCoampre(item, productData) {
-      this.showcomparemodal = item
-      this.comapreproduct = productData
-    },
-    closeCompareModal(item) {
-      this.showcomparemodal = item
     },
     showCart(item, productData) {
       this.showcartmodal = item

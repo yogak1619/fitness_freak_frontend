@@ -14,7 +14,6 @@
                   <div class="product-box">
                     <productBox1
                                 @opencartmodel="showCart"
-                                @showCompareModal="showCoampre"
                                 @openquickview="showQuickview"
                                 @showalert="alert"
                                 @alertseconds="alert"
@@ -35,7 +34,7 @@
       <p>Product Is successfully added to your wishlist.</p>
     </b-alert>
     <quickviewModel :openModal="showquickviewmodel" :productData="quickviewproduct" />
-    <compareModel :openCompare="showcomparemodal" :productData="comapreproduct" @closeCompare="closeCompareModal" />
+    
     <cartModel :openCart="showcartmodal" :productData="cartproduct" @closeCart="closeCartModal" :products="products" />
   </div>
 </template>
@@ -45,13 +44,11 @@ import { mapState } from 'vuex'
 import productBox1 from '../product-box/product-box1'
 import cartModel from '../cart-model/cart-modal-popup'
 import quickviewModel from './quickview'
-import compareModel from './compare-popup'
 export default {
   props: ['productTYpe', 'productId'],
   components: {
     productBox1,
     quickviewModel,
-    compareModel,
     cartModel
   },
   data() {
@@ -59,7 +56,6 @@ export default {
       title: 'Related Products',
       products: [],
       showquickviewmodel: false,
-      showcomparemodal: false,
       showcartmodal: false,
       quickviewproduct: {},
       comapreproduct: {},
@@ -98,13 +94,6 @@ export default {
     showQuickview(item, productData) {
       this.showquickviewmodel = item
       this.quickviewproduct = productData
-    },
-    showCoampre(item, productData) {
-      this.showcomparemodal = item
-      this.comapreproduct = productData
-    },
-    closeCompareModal(item) {
-      this.showcomparemodal = item
     },
     showCart(item, productData) {
       this.showcartmodal = item

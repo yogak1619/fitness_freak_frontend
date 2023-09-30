@@ -30,11 +30,12 @@ const _0f50c57d = () => interopDefault(import('../pages/product/three-column/thu
 const _69117022 = () => interopDefault(import('../pages/product/thumbnail-image/image-outside.vue' /* webpackChunkName: "pages/product/thumbnail-image/image-outside" */))
 const _462da894 = () => interopDefault(import('../pages/product/thumbnail-image/left-image.vue' /* webpackChunkName: "pages/product/thumbnail-image/left-image" */))
 const _55a54999 = () => interopDefault(import('../pages/product/thumbnail-image/right-image.vue' /* webpackChunkName: "pages/product/thumbnail-image/right-image" */))
-
+const _7e7a9c96 = () => interopDefault(import('../pages/page/account/auth/auth.js' /* webpackChunkName: "pages/page/account/auth/auth" */))
 const _87a3ee3e = () => interopDefault(import('../pages/shop/fashion/components/banner.vue' /* webpackChunkName: "pages/shop/fashion/components/banner" */))
 const _1f0f9cd2 = () => interopDefault(import('../pages/shop/fashion/components/blog.vue' /* webpackChunkName: "pages/shop/fashion/components/blog" */))
 const _1bf5fa70 = () => interopDefault(import('../pages/shop/fashion/components/collection_banner.vue' /* webpackChunkName: "pages/shop/fashion/components/collection_banner" */))
-
+const _5df1530d = () => interopDefault(import('../pages/shop/fashion/components/instagram.vue' /* webpackChunkName: "pages/shop/fashion/components/instagram" */))
+const _5b85d1e0 = () => interopDefault(import('../pages/shop/fashion/components/logo_slider.vue' /* webpackChunkName: "pages/shop/fashion/components/logo_slider" */))
 const _d0ddbf34 = () => interopDefault(import('../pages/shop/fashion/components/product_slider.vue' /* webpackChunkName: "pages/shop/fashion/components/product_slider" */))
 const _5fd11160 = () => interopDefault(import('../pages/shop/fashion/components/product_tab.vue' /* webpackChunkName: "pages/shop/fashion/components/product_tab" */))
 const _3b9b2016 = () => interopDefault(import('../pages/shop/fashion/components/slider.vue' /* webpackChunkName: "pages/shop/fashion/components/slider" */))
@@ -158,6 +159,10 @@ export const routerOptions = {
     component: _55a54999,
     name: "product-thumbnail-image-right-image"
   }, {
+    path: "/page/account/auth/auth",
+    component: _7e7a9c96,
+    name: "page-account-auth-auth"
+  }, {
     path: "/shop/fashion/components/banner",
     component: _87a3ee3e,
     name: "shop-fashion-components-banner"
@@ -169,6 +174,14 @@ export const routerOptions = {
     path: "/shop/fashion/components/collection_banner",
     component: _1bf5fa70,
     name: "shop-fashion-components-collection_banner"
+  }, {
+    path: "/shop/fashion/components/instagram",
+    component: _5df1530d,
+    name: "shop-fashion-components-instagram"
+  }, {
+    path: "/shop/fashion/components/logo_slider",
+    component: _5b85d1e0,
+    name: "shop-fashion-components-logo_slider"
   }, {
     path: "/shop/fashion/components/product_slider",
     component: _d0ddbf34,

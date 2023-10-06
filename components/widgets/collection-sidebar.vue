@@ -220,7 +220,7 @@ import 'vue-slider-component/theme/antd.css'
 export default {
   data() {
     return {
-      bannerimagepath: require('@/assets/images/side-banner.png'),
+      bannerimagepath: require('@/assets/images/side-banner.jpg'),
       value: [50, 550],
       selectedcolor: [],
       selectedbrand: [],

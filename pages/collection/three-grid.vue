@@ -212,7 +212,7 @@ export default {
   },
   data() {
     return {
-      bannerimagepath: require('@/assets/images/side-banner.png'),
+      bannerimagepath: require('@/assets/images/side-banner.jpg'),
       col2: false,
       col3: true,
       col4: false,

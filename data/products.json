@@ -95,7 +95,7 @@
                     "image_id": 112,
                     "id": 1,
                     "alt": "white",
-                    "src": "1.jpg",
+                    "src": "2.jpg",
                     "variant_id": [
                         102,
                         105
@@ -105,7 +105,7 @@
                     "image_id": 113,
                     "id": 1,
                     "alt": "pink",
-                    "src": "1.jpg",
+                    "src": "3.jpg",
                     "variant_id": [
                         103,
                         106
@@ -214,7 +214,7 @@
                     "image_id": 211,
                     "id": 2,
                     "alt": "olive",
-                    "src": "1.jpg",
+                    "src": "27.jpg",
                     "variant_id": [
                         201,
                         204,
@@ -236,7 +236,7 @@
                     "image_id": 213,
                     "id": 2,
                     "alt": "pink",
-                    "src": "1.jpg",
+                    "src": "3.jpg",
                     "variant_id": [
                         203,
                         206,
@@ -247,7 +247,7 @@
                     "image_id": 214,
                     "id": 2,
                     "alt": "pink",
-                    "src": "1.jpg",
+                    "src": "5.jpg",
                     "variant_id": [
                         201,
                         204

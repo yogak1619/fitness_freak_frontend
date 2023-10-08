@@ -3,9 +3,12 @@
     <!-- Sample menu definition -->
     <div class="main-navbar">
       <div id="mainnav">
-        <div class="toggle-nav" :class="leftSidebarVal ? 'toggle-button' : ''" @click="openmobilenav=true">
-          <i class="fa fa-bars sidebar-bar"></i>
-        </div>
+        <a @click="left_sidebar">
+          <div class="bar-style">
+            <i class="fa fa-bars sidebar-bar" aria-hidden="true"></i>
+          </div>
+        </a>
+        <LeftSidebar :leftSidebarVal="leftSidebarVal" @closeVal="closeBarValFromChild" />
         <ul class="nav-menu" :class="{ opennav: openmobilenav }" >
           <li class="back-btn">
             <div class="mobile-back text-right">
@@ -68,21 +71,28 @@
 </template>
 <script>
 import { mapState } from 'vuex'
+import LeftSidebar from '../widgets/left-sidebar'
 export default {
-    props: ['leftSidebarVal'],
+    leftSidebarVal: false,
   data() {
     return {
       openmobilenav: false,
       subnav: false,
       activeItem: 'home',
       activeChildItem: 'fashion 1',
-      activemegaChild: 'portfolio'
+      activemegaChild: 'portfolio',
+      leftSidebarVal: false
     }
   },
   computed: {
     ...mapState({
       menulist: state => state.menu.data
     })
+  },
+  components: {
+    
+    LeftSidebar,
+    
   },
   methods: {
     mobilenav: function () {
@@ -118,6 +128,12 @@ export default {
       } else {
         this.activemegaChild = megaChildItem
       }
+    },
+    left_sidebar() {
+      this.leftSidebarVal = true
+    },
+    closeBarValFromChild(val) {
+      this.leftSidebarVal = val
     }
   }
 }

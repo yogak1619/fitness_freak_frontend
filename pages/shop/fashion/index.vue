@@ -4,6 +4,7 @@
     <Slider />
     <CollectionBanner />
     <ProductSlider :products="products" @openQuickview="showQuickview" @openCart="showCart" />
+    <NewArrival :products="products" @openQuickview="showQuickview" @openCart="showCart" />
     <Banner />
     <Blog />
     
@@ -30,6 +31,7 @@ import newsletterModel from '../../../components/widgets/newsletter-popup'
 import Slider from './components/slider'
 import CollectionBanner from './components/collection_banner'
 import ProductSlider from './components/product_slider'
+import NewArrival from './components/new_arrival'
 import Banner from './components/banner'
 // import ProductTab from './components/product_tab'
 // import Services from './components/services'
@@ -52,7 +54,8 @@ export default {
     Footer,
     quickviewModel,
     cartModel,
-    newsletterModel
+    newsletterModel,
+    NewArrival
   },
   data() {
     return {

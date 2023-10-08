@@ -8,10 +8,6 @@
           <div class="col-sm-12">
             <div class="main-menu">
               <div class="menu-left">
-                <div class="navbar">
-                 
-                  <LeftSidebar :leftSidebarVal="leftSidebarVal" @closeVal="closeBarValFromChild" />
-                </div>
                 <div class="brand-logo">
                   <nuxt-link :to="{ path: '/shop/fashion'}">
                     <img :src='"@/assets/images/icon/logo.png"' class="img-fluid" alt />

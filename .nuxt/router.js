@@ -23,7 +23,6 @@ const _3241b95a = () => interopDefault(import('../pages/page/account/profile.vue
 const _48e86669 = () => interopDefault(import('../pages/page/account/register.vue' /* webpackChunkName: "pages/page/account/register" */))
 const _c5d8e6ea = () => interopDefault(import('../pages/page/account/wishlist.vue' /* webpackChunkName: "pages/page/account/wishlist" */))
 const _cac719e2 = () => interopDefault(import('../pages/product/sidebar/no-sidebar.vue' /* webpackChunkName: "pages/product/sidebar/no-sidebar" */))
-const _60a1973c = () => interopDefault(import('../pages/product/sidebar/right-sidebar.vue' /* webpackChunkName: "pages/product/sidebar/right-sidebar" */))
 const _68574ccc = () => interopDefault(import('../pages/product/three-column/thumbnail-bottom.vue' /* webpackChunkName: "pages/product/three-column/thumbnail-bottom" */))
 const _c9288994 = () => interopDefault(import('../pages/product/three-column/thumbnail-left.vue' /* webpackChunkName: "pages/product/three-column/thumbnail-left" */))
 const _0f50c57d = () => interopDefault(import('../pages/product/three-column/thumbnail-right.vue' /* webpackChunkName: "pages/product/three-column/thumbnail-right" */))
@@ -130,10 +129,6 @@ export const routerOptions = {
     path: "/product/sidebar/no-sidebar",
     component: _cac719e2,
     name: "product-sidebar-no-sidebar"
-  }, {
-    path: "/product/sidebar/right-sidebar",
-    component: _60a1973c,
-    name: "product-sidebar-right-sidebar"
   }, {
     path: "/product/three-column/thumbnail-bottom",
     component: _68574ccc,

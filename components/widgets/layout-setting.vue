@@ -249,12 +249,6 @@
               <div class="col-sm-6 col-12 text-center demo-effects">
                 <div class="set-position">
                   <div class="layout-container demo24"></div>
-                  <div class="demo-text">
-                    <h4>right sidebar</h4>
-                    <div class="btn-group demo-btn" role="group" aria-label="Basic example">
-                      <nuxt-link :to="{ path: '/collection/right-sidebar' }" class="btn new-tab-btn" target="_blank">Preview</nuxt-link>
-                    </div>
-                  </div>
                 </div>
               </div>
               <div class="col-sm-6 col-12 text-center demo-effects">

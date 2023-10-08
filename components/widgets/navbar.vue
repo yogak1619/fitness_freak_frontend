@@ -1,11 +1,11 @@
 <template>
   <div>
     <!-- Sample menu definition -->
-    <div class="main-navbar">
+    <div class="main-navbar py-4 py-sm-0">
       <div id="mainnav">
-        <a @click="left_sidebar">
+        <a @click="left_sidebar" class="padding-l-b-40px hide-lg-screen d-sm-inline-flex text-reset">
           <div class="bar-style">
-            <i class="fa fa-bars sidebar-bar" aria-hidden="true"></i>
+            <i class="fa fa-bars sidebar-bar font-24px" aria-hidden="true"></i>
           </div>
         </a>
         <LeftSidebar :leftSidebarVal="leftSidebarVal" @closeVal="closeBarValFromChild" />

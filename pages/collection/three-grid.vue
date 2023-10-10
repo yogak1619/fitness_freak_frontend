@@ -42,7 +42,7 @@
                           <div class="col-12">
                             <div class="product-filter-content">
                               <div class="search-count">
-                                <h5>Showing Products 1-12 of {{ filterProduct.length }} Result</h5>
+                                <h5>Showing Products 1-13 of {{ filterProduct.length }} Result</h5>
                               </div>
                               <div class="collection-view">
                                 <ul>

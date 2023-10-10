@@ -2,6 +2,7 @@
   <div>
     <Header />
     <Slider />
+    <OfferCoupon />
     <CollectionBanner />
     <ProductSlider :products="products" @openQuickview="showQuickview" @openCart="showCart" />
     <NewArrival :products="products" @openQuickview="showQuickview" @openCart="showCart" />
@@ -36,6 +37,7 @@ import Banner from './components/banner'
 // import ProductTab from './components/product_tab'
 // import Services from './components/services'
 import Blog from './components/blog'
+import OfferCoupon from '../../../components/widgets/offer-coupon'
 {/*import Instagram from './components/instagram'*/}
 {/*import LogoSlider from './components/logo_slider'*/}
 
@@ -55,7 +57,8 @@ export default {
     quickviewModel,
     cartModel,
     newsletterModel,
-    NewArrival
+    NewArrival,
+    OfferCoupon
   },
   data() {
     return {

@@ -2426,7 +2426,7 @@
           select {
             border-left: 1px solid $round-border;
             padding: 21px 34px 21px 34px;
-            border-top: none;
+            border-top: 1px solid $round-border;
             border-bottom: none;
           }
         }

@@ -13,20 +13,6 @@
               <div class="page-main-content">
                 <div class="row">
                   <div class="col-sm-12">
-                    <div class="top-banner-wrapper">
-                      <a href="#">
-                        <img
-                          :src='"@/assets/images/mega-menu/2.jpg"'
-                          class="img-fluid"
-                          alt
-                        />
-                      </a>
-                      <div class="top-banner-content small-section">
-                        <h4>fashion</h4>
-                        <h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h5>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                      </div>
-                    </div>
                     <ul class="product-filter-tags">
                       <li
                       class="mr-1"
@@ -41,20 +27,7 @@
                         <div class="row">
                           <div class="col-12">
                             <div class="product-filter-content">
-                              <div class="search-count">
-                                <h5>Showing Products 1-12 of {{ filterProduct.length }} Result</h5>
-                              </div>
                               <div class="collection-view">
-                                <ul>
-                                  <li @click="gridView()">
-                                    <i class="fa fa-th grid-layout-view"></i>
-                                  </li>
-                                  <li @click="listView()">
-                                    <i class="fa fa-list-ul list-layout-view"></i>
-                                  </li>
-                                </ul>
-                              </div>
-                              <div class="collection-grid-view">
                                 <ul>
                                   <li>
                                     <img
@@ -85,6 +58,9 @@
                                     />
                                   </li>
                                 </ul>
+                              </div>
+                              <div class="collection-grid-view">
+                                
                               </div>
                               <div class="product-page-filter">
                                 <select @change="onChangeSort($event)">

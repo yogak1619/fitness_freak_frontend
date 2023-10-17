@@ -1,6 +1,14 @@
 <template>
   <div>
-    <footer class="bg-img-gym overlay-cls effect-cls footer-effect">
+    <footer
+      class="bg-img-gym overlay-cls effect-cls footer-effect"
+      v-bind:style="{ 'background-image': `url(${imagepath})` }"
+      style="
+        background-size: cover;
+        background-position: center center;
+        display: block;
+      "
+    >
       <div class="dark-layout">
         <div class="container">
           <section class="section-b-space border-b">
@@ -10,9 +18,7 @@
                   <h4>about</h4>
                 </div>
                 <div class="footer-contant">
-                  <div class="footer-logo">
-                    <img src="../../assets/images/11.jpg"
-                  </div>
+                  <div class="footer-logo"></div>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod tempor incididunt ut labore et.Lorem ipsum dolor
@@ -133,5 +139,11 @@
 </template>
 
 <script>
-export default {};
+export default {
+  data() {
+    return {
+      imagepath: require("@/assets/images/11.jpg"),
+    };
+  },
+};
 </script>

@@ -1,55 +1,54 @@
 .coupon-section {
-	.coupon{
-		    background: linear-gradient(45deg, #ff4c3b, #6e302a);
-		            padding: 0px 5px 0 16px;
-		        .tengah{
-		        	span{
-						font-size: 16px;
-		        	}
-		        	p{
-		        		font-size: 16px;
-		        	}
-		        	h3{
-		        		font-size: 30px;
-					    font-weight: 600;
-					    color: #fff;
-		        	}
-		        	.rupee-icon{
-		        		font-size: 22px;
-		        		 padding-top: 7px;
-		        	    
-		        	
-		        }
-		        	}
-		        	.btn-outline-white{
-		        		border: 1px solid white;
-		        	}
+	.coupon {
+		background: linear-gradient(45deg, #ff4c3b, #6e302a);
+		padding: 0px 5px 0 16px;
+		.tengah {
+			span {
+				font-size: 16px;
+			}
+			p {
+				font-size: 16px;
+			}
+			h3 {
+				font-size: 30px;
+				font-weight: 600;
+				color: #fff;
+			}
+			.rupee-icon {
+				font-size: 22px;
+				padding-top: 7px;
+			}
+		}
+		.btn-outline-white {
+			border: 1px solid white;
+		}
 	}
 	.coupon .kanan {
-	    border-left: 1px dashed #ddd;
-	    width: 40% !important;
-	    position:relative;
+		border-left: 1px dashed #ddd;
+		width: 40% !important;
+		position: relative;
 	}
 
-	.coupon .kanan .info::after, .coupon .kanan .info::before {
-	    content: '';
-	    position: absolute;
-	    width: 20px;
-	    height: 20px;
-	    background: #fff;
-	    border-radius: 100%;
+	.coupon .kanan .info::after,
+	.coupon .kanan .info::before {
+		content: "";
+		position: absolute;
+		width: 20px;
+		height: 20px;
+		background: #e9e9f3;
+		border-radius: 100%;
 	}
 	.coupon .kanan .info::before {
-	    top: -10px;
-	    left: -10px;
+		top: -10px;
+		left: -10px;
 	}
 
 	.coupon .kanan .info::after {
-	    bottom: -10px;
-	    left: -10px;
+		bottom: -10px;
+		left: -10px;
 	}
 	.coupon .time {
-	    text-align: center;
-    display: block;
+		text-align: center;
+		display: block;
 	}
 }

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="mt-5">
     <footer
       class="bg-img-gym overlay-cls effect-cls footer-effect"
       v-bind:style="{ 'background-image': `url(${imagepath})` }"

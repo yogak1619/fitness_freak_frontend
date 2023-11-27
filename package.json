@@ -42,7 +42,9 @@
     "vuejs-paginate": "^2.1.0",
     "vuex": "3.5.1",
     "vuex-persistedstate": "^4.1.0",
-    "wrap-ansi": "^8.0.1"
+    "wrap-ansi": "^8.0.1",
+    "mobx": "^6.9.0",
+    "mobx-react": "^7.6.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15",

@@ -2,267 +2,267 @@
   {
     "name": "collection-three-grid",
     "path": "/collection/three-grid",
-    "component": "/home/akshay/fitness_freak_frontend/pages/collection/three-grid.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/collection/three-grid.vue",
     "chunkName": "pages/collection/three-grid",
-    "_name": "_1eb4844a"
+    "_name": "_3a836707"
   },
   {
     "name": "page-404",
     "path": "/page/404",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/404.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/404.vue",
     "chunkName": "pages/page/404",
-    "_name": "_596df378"
+    "_name": "_6b2f7467"
   },
   {
     "name": "page-about",
     "path": "/page/about",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/about.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/about.vue",
     "chunkName": "pages/page/about",
-    "_name": "_291e6119"
+    "_name": "_6121d27c"
   },
   {
     "name": "page-coming-soon",
     "path": "/page/coming-soon",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/coming-soon.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/coming-soon.vue",
     "chunkName": "pages/page/coming-soon",
-    "_name": "_5872b653"
+    "_name": "_57665176"
   },
   {
     "name": "page-faq",
     "path": "/page/faq",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/faq.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/faq.vue",
     "chunkName": "pages/page/faq",
-    "_name": "_7f39a922"
+    "_name": "_17201745"
   },
   {
     "name": "page-order-success",
     "path": "/page/order-success",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/order-success.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/order-success.vue",
     "chunkName": "pages/page/order-success",
-    "_name": "_259db290"
+    "_name": "_361710f3"
   },
   {
     "name": "page-review",
     "path": "/page/review",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/review.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/review.vue",
     "chunkName": "pages/page/review",
-    "_name": "_370452fc"
+    "_name": "_0121e40e"
   },
   {
     "name": "page-search",
     "path": "/page/search",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/search.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/search.vue",
     "chunkName": "pages/page/search",
-    "_name": "_7db0194c"
+    "_name": "_461ad449"
   },
   {
     "name": "shop-fashion",
     "path": "/shop/fashion",
-    "component": "/home/akshay/fitness_freak_frontend/pages/shop/fashion/index.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/shop/fashion/index.vue",
     "chunkName": "pages/shop/fashion/index",
-    "_name": "_74191e24"
+    "_name": "_5326615e"
   },
   {
     "name": "page-account-cart",
     "path": "/page/account/cart",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/account/cart.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/account/cart.vue",
     "chunkName": "pages/page/account/cart",
-    "_name": "_6e94b366"
+    "_name": "_4e147ca3"
   },
   {
     "name": "page-account-checkout",
     "path": "/page/account/checkout",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/account/checkout.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/account/checkout.vue",
     "chunkName": "pages/page/account/checkout",
-    "_name": "_05e17b8c"
+    "_name": "_21b05e49"
   },
   {
     "name": "page-account-contact",
     "path": "/page/account/contact",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/account/contact.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/account/contact.vue",
     "chunkName": "pages/page/account/contact",
-    "_name": "_4290ab6c"
+    "_name": "_935a0826"
   },
   {
     "name": "page-account-dashboard",
     "path": "/page/account/dashboard",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/account/dashboard.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/account/dashboard.vue",
     "chunkName": "pages/page/account/dashboard",
-    "_name": "_001f0b84"
+    "_name": "_5dfdef21"
   },
   {
     "name": "page-account-forget-password",
     "path": "/page/account/forget-password",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/account/forget-password.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/account/forget-password.vue",
     "chunkName": "pages/page/account/forget-password",
-    "_name": "_11cb35b6"
+    "_name": "_126763c8"
   },
   {
     "name": "page-account-login",
     "path": "/page/account/login",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/account/login.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/account/login.vue",
     "chunkName": "pages/page/account/login",
-    "_name": "_191534da"
+    "_name": "_03eec3f6"
   },
   {
     "name": "page-account-profile",
     "path": "/page/account/profile",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/account/profile.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/account/profile.vue",
     "chunkName": "pages/page/account/profile",
-    "_name": "_3241b95a"
+    "_name": "_830b1614"
   },
   {
     "name": "page-account-register",
     "path": "/page/account/register",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/account/register.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/account/register.vue",
     "chunkName": "pages/page/account/register",
-    "_name": "_48e86669"
+    "_name": "_64b74926"
   },
   {
     "name": "page-account-wishlist",
     "path": "/page/account/wishlist",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/account/wishlist.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/account/wishlist.vue",
     "chunkName": "pages/page/account/wishlist",
-    "_name": "_c5d8e6ea"
+    "_name": "_8e3b2170"
   },
   {
     "name": "product-sidebar-no-sidebar",
     "path": "/product/sidebar/no-sidebar",
-    "component": "/home/akshay/fitness_freak_frontend/pages/product/sidebar/no-sidebar.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/product/sidebar/no-sidebar.vue",
     "chunkName": "pages/product/sidebar/no-sidebar",
-    "_name": "_cac719e2"
-  },
-  {
-    "name": "product-sidebar-right-sidebar",
-    "path": "/product/sidebar/right-sidebar",
-    "component": "/home/akshay/fitness_freak_frontend/pages/product/sidebar/right-sidebar.vue",
-    "chunkName": "pages/product/sidebar/right-sidebar",
-    "_name": "_60a1973c"
+    "_name": "_cd62831c"
   },
   {
     "name": "product-three-column-thumbnail-bottom",
     "path": "/product/three-column/thumbnail-bottom",
-    "component": "/home/akshay/fitness_freak_frontend/pages/product/three-column/thumbnail-bottom.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/product/three-column/thumbnail-bottom.vue",
     "chunkName": "pages/product/three-column/thumbnail-bottom",
-    "_name": "_68574ccc"
+    "_name": "_0f082257"
   },
   {
     "name": "product-three-column-thumbnail-left",
     "path": "/product/three-column/thumbnail-left",
-    "component": "/home/akshay/fitness_freak_frontend/pages/product/three-column/thumbnail-left.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/product/three-column/thumbnail-left.vue",
     "chunkName": "pages/product/three-column/thumbnail-left",
-    "_name": "_c9288994"
+    "_name": "_01848f33"
   },
   {
     "name": "product-three-column-thumbnail-right",
     "path": "/product/three-column/thumbnail-right",
-    "component": "/home/akshay/fitness_freak_frontend/pages/product/three-column/thumbnail-right.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/product/three-column/thumbnail-right.vue",
     "chunkName": "pages/product/three-column/thumbnail-right",
-    "_name": "_0f50c57d"
+    "_name": "_6c527120"
   },
   {
     "name": "product-thumbnail-image-image-outside",
     "path": "/product/thumbnail-image/image-outside",
-    "component": "/home/akshay/fitness_freak_frontend/pages/product/thumbnail-image/image-outside.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/product/thumbnail-image/image-outside.vue",
     "chunkName": "pages/product/thumbnail-image/image-outside",
-    "_name": "_69117022"
+    "_name": "_a7758e42"
   },
   {
     "name": "product-thumbnail-image-left-image",
     "path": "/product/thumbnail-image/left-image",
-    "component": "/home/akshay/fitness_freak_frontend/pages/product/thumbnail-image/left-image.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/product/thumbnail-image/left-image.vue",
     "chunkName": "pages/product/thumbnail-image/left-image",
-    "_name": "_462da894"
+    "_name": "_6c976419"
   },
   {
     "name": "product-thumbnail-image-right-image",
     "path": "/product/thumbnail-image/right-image",
-    "component": "/home/akshay/fitness_freak_frontend/pages/product/thumbnail-image/right-image.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/product/thumbnail-image/right-image.vue",
     "chunkName": "pages/product/thumbnail-image/right-image",
-    "_name": "_55a54999"
+    "_name": "_8883c4d4"
   },
   {
     "name": "page-account-auth-auth",
     "path": "/page/account/auth/auth",
-    "component": "/home/akshay/fitness_freak_frontend/pages/page/account/auth/auth.js",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/page/account/auth/auth.js",
     "chunkName": "pages/page/account/auth/auth",
-    "_name": "_7e7a9c96"
+    "_name": "_cb6d015a"
   },
   {
     "name": "shop-fashion-components-banner",
     "path": "/shop/fashion/components/banner",
-    "component": "/home/akshay/fitness_freak_frontend/pages/shop/fashion/components/banner.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/shop/fashion/components/banner.vue",
     "chunkName": "pages/shop/fashion/components/banner",
-    "_name": "_87a3ee3e"
+    "_name": "_3835eac4"
   },
   {
     "name": "shop-fashion-components-blog",
     "path": "/shop/fashion/components/blog",
-    "component": "/home/akshay/fitness_freak_frontend/pages/shop/fashion/components/blog.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/shop/fashion/components/blog.vue",
     "chunkName": "pages/shop/fashion/components/blog",
-    "_name": "_1f0f9cd2"
+    "_name": "_0bc5303a"
   },
   {
     "name": "shop-fashion-components-collection_banner",
     "path": "/shop/fashion/components/collection_banner",
-    "component": "/home/akshay/fitness_freak_frontend/pages/shop/fashion/components/collection_banner.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/shop/fashion/components/collection_banner.vue",
     "chunkName": "pages/shop/fashion/components/collection_banner",
-    "_name": "_1bf5fa70"
+    "_name": "_707c2505"
   },
   {
     "name": "shop-fashion-components-instagram",
     "path": "/shop/fashion/components/instagram",
-    "component": "/home/akshay/fitness_freak_frontend/pages/shop/fashion/components/instagram.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/shop/fashion/components/instagram.vue",
     "chunkName": "pages/shop/fashion/components/instagram",
-    "_name": "_5df1530d"
+    "_name": "_118dfb6c"
   },
   {
     "name": "shop-fashion-components-logo_slider",
     "path": "/shop/fashion/components/logo_slider",
-    "component": "/home/akshay/fitness_freak_frontend/pages/shop/fashion/components/logo_slider.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/shop/fashion/components/logo_slider.vue",
     "chunkName": "pages/shop/fashion/components/logo_slider",
-    "_name": "_5b85d1e0"
+    "_name": "_3855eb0d"
+  },
+  {
+    "name": "shop-fashion-components-new_arrival",
+    "path": "/shop/fashion/components/new_arrival",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/shop/fashion/components/new_arrival.vue",
+    "chunkName": "pages/shop/fashion/components/new_arrival",
+    "_name": "_32c88a1c"
   },
   {
     "name": "shop-fashion-components-product_slider",
     "path": "/shop/fashion/components/product_slider",
-    "component": "/home/akshay/fitness_freak_frontend/pages/shop/fashion/components/product_slider.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/shop/fashion/components/product_slider.vue",
     "chunkName": "pages/shop/fashion/components/product_slider",
-    "_name": "_d0ddbf34"
+    "_name": "_8a53216e"
   },
   {
     "name": "shop-fashion-components-product_tab",
     "path": "/shop/fashion/components/product_tab",
-    "component": "/home/akshay/fitness_freak_frontend/pages/shop/fashion/components/product_tab.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/shop/fashion/components/product_tab.vue",
     "chunkName": "pages/shop/fashion/components/product_tab",
-    "_name": "_5fd11160"
+    "_name": "_742c3546"
   },
   {
     "name": "shop-fashion-components-slider",
     "path": "/shop/fashion/components/slider",
-    "component": "/home/akshay/fitness_freak_frontend/pages/shop/fashion/components/slider.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/shop/fashion/components/slider.vue",
     "chunkName": "pages/shop/fashion/components/slider",
-    "_name": "_3b9b2016"
+    "_name": "_90b9fc0e"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/home/akshay/fitness_freak_frontend/pages/index.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_d74a7e14"
+    "_name": "_4638bdb3"
   },
   {
     "name": "collection-leftsidebar-id",
     "path": "/collection/leftsidebar/:id?",
-    "component": "/home/akshay/fitness_freak_frontend/pages/collection/leftsidebar/_id.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/collection/leftsidebar/_id.vue",
     "chunkName": "pages/collection/leftsidebar/_id",
-    "_name": "_32fd14bb"
+    "_name": "_31af601e"
   },
   {
     "name": "product-sidebar-id",
     "path": "/product/sidebar/:id?",
-    "component": "/home/akshay/fitness_freak_frontend/pages/product/sidebar/_id.vue",
+    "component": "/Users/admin/work/next/fitness_freak_frontend/pages/product/sidebar/_id.vue",
     "chunkName": "pages/product/sidebar/_id",
-    "_name": "_5a65e80b"
+    "_name": "_59185608"
   }
 ]

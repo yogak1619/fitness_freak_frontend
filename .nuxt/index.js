@@ -13,9 +13,9 @@ import { createStore } from './store.js'
 
 /* Plugins */
 
-import nuxt_plugin_bootstrapvue_aee07bd2 from 'nuxt_plugin_bootstrapvue_aee07bd2' // Source: ./bootstrap-vue.js (mode: 'all')
-import nuxt_plugin_vuescrollto_a4e7f5be from 'nuxt_plugin_vuescrollto_a4e7f5be' // Source: ./vue-scrollto.js (mode: 'client')
-import nuxt_plugin_axios_59256830 from 'nuxt_plugin_axios_59256830' // Source: ./axios.js (mode: 'all')
+import nuxt_plugin_bootstrapvue_2507328c from 'nuxt_plugin_bootstrapvue_2507328c' // Source: ./bootstrap-vue.js (mode: 'all')
+import nuxt_plugin_vuescrollto_75f6c01e from 'nuxt_plugin_vuescrollto_75f6c01e' // Source: ./vue-scrollto.js (mode: 'client')
+import nuxt_plugin_axios_2ca378ea from 'nuxt_plugin_axios_2ca378ea' // Source: ./axios.js (mode: 'all')
 import nuxt_plugin_plugin_03b7832e from 'nuxt_plugin_plugin_03b7832e' // Source: ../plugins/plugin.js (mode: 'client')
 import nuxt_plugin_localStorage_830ec59e from 'nuxt_plugin_localStorage_830ec59e' // Source: ../plugins/localStorage.js (mode: 'client')
 
@@ -82,7 +82,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"Multikart Ecommerce | Vuejs shopping theme","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":""}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Fmultikart\u002Ffavicon.png"},{"rel":"stylesheet","href":"https:\u002F\u002Ffonts.googleapis.com\u002Fcss?family=Lato:300,400,700,900"}],"script":[{"src":"https:\u002F\u002Fcheckout.stripe.com\u002Fcheckout.js"}],"style":[]},
+    head: {"title":"Fitness freak","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"My awe-inspiring Nuxt.js project"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"favicon.png"},{"rel":"stylesheet","href":"https:\u002F\u002Ffonts.googleapis.com\u002Fcss?family=Lato:300,400,700,900"}],"script":[{"src":"https:\u002F\u002Fcheckout.stripe.com\u002Fcheckout.js"}],"style":[]},
 
     store,
     router,
@@ -212,16 +212,16 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_bootstrapvue_aee07bd2 === 'function') {
-    await nuxt_plugin_bootstrapvue_aee07bd2(app.context, inject)
+  if (typeof nuxt_plugin_bootstrapvue_2507328c === 'function') {
+    await nuxt_plugin_bootstrapvue_2507328c(app.context, inject)
   }
 
-  if (process.client && typeof nuxt_plugin_vuescrollto_a4e7f5be === 'function') {
-    await nuxt_plugin_vuescrollto_a4e7f5be(app.context, inject)
+  if (process.client && typeof nuxt_plugin_vuescrollto_75f6c01e === 'function') {
+    await nuxt_plugin_vuescrollto_75f6c01e(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_axios_59256830 === 'function') {
-    await nuxt_plugin_axios_59256830(app.context, inject)
+  if (typeof nuxt_plugin_axios_2ca378ea === 'function') {
+    await nuxt_plugin_axios_2ca378ea(app.context, inject)
   }
 
   if (process.client && typeof nuxt_plugin_plugin_03b7832e === 'function') {

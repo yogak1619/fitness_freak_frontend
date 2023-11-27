@@ -1,19 +1,19 @@
 
 export default {
   ssr: false,
-  subdirectory: '/multikart',
+  subdirectory: '/',
   /*
   ** Headers of the page
   */
   head: {
-    title: 'Multikart Ecommerce | Vuejs shopping theme',
+    title: 'Fitness freak',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/multikart/favicon.png' },
+      { rel: 'icon', type: 'image/x-icon', href: 'favicon.png' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Lato:300,400,700,900' }
     ],
     script: [
@@ -22,7 +22,7 @@ export default {
   },
 
   router: {
-    base: '/multikart/'
+    base: '/'
   },
   /*
   ** Customize the progress-bar color
